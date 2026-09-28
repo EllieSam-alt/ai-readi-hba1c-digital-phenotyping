@@ -1,0 +1,30 @@
+{
+  "created_utc": "2026-09-28T17:43:12.098519+00:00",
+  "reviewer_completion_module_sha256": "35633a6160b1994ba1e208594395410eeef5eb73a9cafc622ac4b16858920494",
+  "source_run": "20260927_192923_602247",
+  "artifacts": {
+    "artifact_integrity.csv": "97d4c530c46397093f4a5eed7b594bf25aded12b51f40f8174e757bc92aa3f98",
+    "recorded_run_environment.json": "d1ef370a688327c5dcdf3c25a725fec80bcd5aefaf284502a334efeb9335d17e",
+    "current_recovery_environment.json": "925acfaf300e71bb1d2259169c8f039f6e7912dfb6b97badb558c3db2b85db46",
+    "verified_protocol_for_review.json": "e37e39df4195b7ac01efccfdfcc41eb55d7981f7a7332dbaf3733aed397c64b6",
+    "final_model_specifications_24_learners.csv": "701c29424f2e2789f10796d73fb60eeb5bb774e752f988f0cea314517496e541",
+    "final_model_parameters_full.json": "b02d27768ca82f4a0fccc19de4597be3c9b48daa9199f74de3f64b04970f32f3",
+    "S13_final_encoded_dimensions.csv": "a58ba6965753647c0057a004875ba0d8b8690dc3dd52eeb9a6c07728a9f737d7",
+    "dataset_document_candidates.csv": "66afd0adea823575f3a42c49c9f39ca2c50bb6c952cd5dba0777288a47c22da2",
+    "author_provenance_record.json": "a3f744b83c62035d761284cab2be82ab173411bc585c1a69d69baa4fc20363b8",
+    "S16_age_stratified_MAE_bias.csv": "6a37ca845868d7f039da113844fcdec5db2474a40ac67d7aca969548b2e924b7",
+    "S15_SHAP_repeat_seed_stability.csv": "ac71be14e9f755420b45592f7b0a69f99d370ec890e4b014c8da549a643f99a9",
+    "SHAP_stability_importance.csv": "30baf2ef6db65e28e78c98e2dd09792c1a4d7fe8a97168c2847cd54528858547",
+    "SHAP_original_and_stability_metadata.json": "d4c1dacc128a57dd48aef8a13624cc10fc6361984381a2ee9606139ba33226e0"
+  },
+  "not_completed": [
+    "education_verification_status.json",
+    "education_exclusion_plan.json",
+    "education_exclusion_inner_search.csv",
+    "education_exclusion_weights.csv",
+    "S17_education_exclusion_performance.csv",
+    "S17_education_exclusion_paired_comparisons.csv"
+  ],
+  "participant_data_or_models_in_archive": false,
+  "note": "Review aggregate outputs against applicable data-use terms before sharing."
+}

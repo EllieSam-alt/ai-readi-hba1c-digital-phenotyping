@@ -1,0 +1,41 @@
+{
+  "original_metadata": {
+    "method": "Monte Carlo interventional Shapley values; random and reverse permutation paths",
+    "group": "CWDS",
+    "split": "validation",
+    "n_explained": 257,
+    "n_background_training_only": 32,
+    "permutations_per_background": 2,
+    "seed": 20260927,
+    "max_additivity_error": 1.7763568394002505e-15,
+    "all_eligible_split_participants_explained": true
+  },
+  "original_metadata_sha256": "39ce6cb9da4a12122a2e11aa96ef9764ca121070c50d0ca34493f2c5771ea0a0",
+  "background_ids_file_sha256": "f9e60bb9b2514cbe97e141bf3420765b32cdbab1beea2a2c7ec01b8f6c851ab1",
+  "stability_runs": [
+    {
+      "seed": 20261928,
+      "n_explained": 257,
+      "background_n": 32,
+      "paths_per_participant": 128,
+      "max_additivity_error": 1.7763568394002505e-15
+    },
+    {
+      "seed": 20261929,
+      "n_explained": 257,
+      "background_n": 32,
+      "paths_per_participant": 128,
+      "max_additivity_error": 1.7763568394002505e-15
+    },
+    {
+      "seed": 20261930,
+      "n_explained": 257,
+      "background_n": 32,
+      "paths_per_participant": 128,
+      "max_additivity_error": 1.7763568394002505e-15
+    }
+  ],
+  "same_training_background_all_runs": true,
+  "scope": "Monte Carlo seed sensitivity conditional on this background and frozen model; does not establish stability to another background, training resample, or model fit.",
+  "status": "Additional post-test analysis; original Figure 5 is not overwritten."
+}

@@ -1,0 +1,121 @@
+split,age_group_years,model,n,observed_HbA1c_mean,metric,estimate,ci_low,ci_high,small_group_under_20,status
+validation,40–54,W__ensemble,92,6.133695652173913,MAE,0.7811517546985489,0.6017703901921286,0.9873938887908468,False,Additional descriptive analysis after test exposure
+validation,40–54,W__ensemble,92,6.133695652173913,Bias predicted minus observed,-0.07127925143084957,-0.33048010981368187,0.16479970562219842,False,Additional descriptive analysis after test exposure
+validation,40–54,WD__ensemble,92,6.133695652173913,MAE,0.7891254546122071,0.6083792952517751,0.9935214057843363,False,Additional descriptive analysis after test exposure
+validation,40–54,WD__ensemble,92,6.133695652173913,Bias predicted minus observed,-0.07187266446645127,-0.32904658012781346,0.16726300170484854,False,Additional descriptive analysis after test exposure
+validation,40–54,WDS__ensemble,92,6.133695652173913,MAE,0.7908280360992619,0.6208895847076848,0.992527242274218,False,Additional descriptive analysis after test exposure
+validation,40–54,WDS__ensemble,92,6.133695652173913,Bias predicted minus observed,-0.05244792624467876,-0.30952217477462796,0.1847096986009565,False,Additional descriptive analysis after test exposure
+validation,40–54,C__ensemble,92,6.133695652173913,MAE,0.7456372693143277,0.5616139883099774,0.9605978011374049,False,Additional descriptive analysis after test exposure
+validation,40–54,C__ensemble,92,6.133695652173913,Bias predicted minus observed,-0.16872514993975365,-0.42921004242674055,0.06608089665961674,False,Additional descriptive analysis after test exposure
+validation,40–54,CD__ensemble,92,6.133695652173913,MAE,0.7533463597424913,0.5671421497760084,0.9719395555633233,False,Additional descriptive analysis after test exposure
+validation,40–54,CD__ensemble,92,6.133695652173913,Bias predicted minus observed,-0.19368995380608328,-0.45573880413755136,0.04227779644813538,False,Additional descriptive analysis after test exposure
+validation,40–54,CW__ensemble,92,6.133695652173913,MAE,0.7377841836387218,0.5570064296645002,0.9516011654762683,False,Additional descriptive analysis after test exposure
+validation,40–54,CW__ensemble,92,6.133695652173913,Bias predicted minus observed,-0.1547205964912497,-0.4062553099307998,0.0783321221416944,False,Additional descriptive analysis after test exposure
+validation,40–54,CWD__ensemble,92,6.133695652173913,MAE,0.7417469407909641,0.5593669292828485,0.95366975898063,False,Additional descriptive analysis after test exposure
+validation,40–54,CWD__ensemble,92,6.133695652173913,Bias predicted minus observed,-0.14909043174629225,-0.40034528178553186,0.08637846146396289,False,Additional descriptive analysis after test exposure
+validation,40–54,CWDS__ensemble,92,6.133695652173913,MAE,0.7506656589912243,0.5758158787347635,0.9597726189150843,False,Additional descriptive analysis after test exposure
+validation,40–54,CWDS__ensemble,92,6.133695652173913,Bias predicted minus observed,-0.13577958748520516,-0.3840812664162102,0.09642068970037578,False,Additional descriptive analysis after test exposure
+validation,40–54,baseline__training_mean,92,6.133695652173913,MAE,0.8221652315651464,0.6260392748307997,1.04379628645335,False,Additional descriptive analysis after test exposure
+validation,40–54,baseline__training_mean,92,6.133695652173913,Bias predicted minus observed,-0.12872417703128886,-0.4102730900747673,0.11695517079479799,False,Additional descriptive analysis after test exposure
+validation,40–54,baseline__training_median,92,6.133695652173913,MAE,0.7836956521739131,0.5728260869565217,1.015244565217391,False,Additional descriptive analysis after test exposure
+validation,40–54,baseline__training_median,92,6.133695652173913,Bias predicted minus observed,-0.3336956521739133,-0.6152445652173917,-0.08801630434782638,False,Additional descriptive analysis after test exposure
+validation,55–64,W__ensemble,75,6.144,MAE,0.6330416321041942,0.5007156257180095,0.7814758178340632,False,Additional descriptive analysis after test exposure
+validation,55–64,W__ensemble,75,6.144,Bias predicted minus observed,-0.09971784502098159,-0.3201637247353264,0.09344778217158897,False,Additional descriptive analysis after test exposure
+validation,55–64,WD__ensemble,75,6.144,MAE,0.6241122831612761,0.4946292021243324,0.7701441195943212,False,Additional descriptive analysis after test exposure
+validation,55–64,WD__ensemble,75,6.144,Bias predicted minus observed,-0.11162090343243956,-0.3288708855300591,0.07921007432778568,False,Additional descriptive analysis after test exposure
+validation,55–64,WDS__ensemble,75,6.144,MAE,0.6020363710233123,0.47307065554107464,0.7488243004678157,False,Additional descriptive analysis after test exposure
+validation,55–64,WDS__ensemble,75,6.144,Bias predicted minus observed,-0.10742609246525224,-0.31027553834951466,0.07872524267232194,False,Additional descriptive analysis after test exposure
+validation,55–64,C__ensemble,75,6.144,MAE,0.6302472182758342,0.49272419718254823,0.7769561762439018,False,Additional descriptive analysis after test exposure
+validation,55–64,C__ensemble,75,6.144,Bias predicted minus observed,-0.10428605609739122,-0.31719309112727795,0.08244709252911542,False,Additional descriptive analysis after test exposure
+validation,55–64,CD__ensemble,75,6.144,MAE,0.6124362964232403,0.4808120342822362,0.7569488822775415,False,Additional descriptive analysis after test exposure
+validation,55–64,CD__ensemble,75,6.144,Bias predicted minus observed,-0.12321805908375884,-0.3336818164100137,0.05754277983094938,False,Additional descriptive analysis after test exposure
+validation,55–64,CW__ensemble,75,6.144,MAE,0.614675691953132,0.4904881861736988,0.752454649159323,False,Additional descriptive analysis after test exposure
+validation,55–64,CW__ensemble,75,6.144,Bias predicted minus observed,-0.0925222696043341,-0.3040772655107149,0.0914174098511433,False,Additional descriptive analysis after test exposure
+validation,55–64,CWD__ensemble,75,6.144,MAE,0.612271466220193,0.49118991953258345,0.749978940479613,False,Additional descriptive analysis after test exposure
+validation,55–64,CWD__ensemble,75,6.144,Bias predicted minus observed,-0.09711064966982093,-0.30528946383852795,0.08367958324502552,False,Additional descriptive analysis after test exposure
+validation,55–64,CWDS__ensemble,75,6.144,MAE,0.6025407945468757,0.4840770061525149,0.7351837032097047,False,Additional descriptive analysis after test exposure
+validation,55–64,CWDS__ensemble,75,6.144,Bias predicted minus observed,-0.07936892848650104,-0.2776192275391375,0.10030913510706517,False,Additional descriptive analysis after test exposure
+validation,55–64,baseline__training_mean,75,6.144,MAE,0.6523238250475413,0.5027144254278728,0.8229973105134474,False,Additional descriptive analysis after test exposure
+validation,55–64,baseline__training_mean,75,6.144,Bias predicted minus observed,-0.1390285248573758,-0.37502852485737587,0.06500480847595737,False,Additional descriptive analysis after test exposure
+validation,55–64,baseline__training_median,75,6.144,MAE,0.6320000000000001,0.46400000000000013,0.8213333333333334,False,Additional descriptive analysis after test exposure
+validation,55–64,baseline__training_median,75,6.144,Bias predicted minus observed,-0.34400000000000014,-0.5800000000000001,-0.139966666666667,False,Additional descriptive analysis after test exposure
+validation,65 and older,W__ensemble,90,6.286666666666666,MAE,0.7432918315461278,0.595582656472414,0.9154276559100806,False,Additional descriptive analysis after test exposure
+validation,65 and older,W__ensemble,90,6.286666666666666,Bias predicted minus observed,-0.33152886364679857,-0.5386008626566863,-0.12464507077586426,False,Additional descriptive analysis after test exposure
+validation,65 and older,WD__ensemble,90,6.286666666666666,MAE,0.7372591423269461,0.5885742860331854,0.9082953134695351,False,Additional descriptive analysis after test exposure
+validation,65 and older,WD__ensemble,90,6.286666666666666,Bias predicted minus observed,-0.3288680987340998,-0.5354167524723639,-0.12145056380124447,False,Additional descriptive analysis after test exposure
+validation,65 and older,WDS__ensemble,90,6.286666666666666,MAE,0.7201757605544704,0.5787171763370129,0.8812177103747122,False,Additional descriptive analysis after test exposure
+validation,65 and older,WDS__ensemble,90,6.286666666666666,Bias predicted minus observed,-0.25561334474852804,-0.45482954990790536,-0.057764849806699284,False,Additional descriptive analysis after test exposure
+validation,65 and older,C__ensemble,90,6.286666666666666,MAE,0.7153331884586657,0.5730179302536815,0.8849150126740685,False,Additional descriptive analysis after test exposure
+validation,65 and older,C__ensemble,90,6.286666666666666,Bias predicted minus observed,-0.21668839933268494,-0.42720566002453786,-0.017793753421627728,False,Additional descriptive analysis after test exposure
+validation,65 and older,CD__ensemble,90,6.286666666666666,MAE,0.7194269086870441,0.5782132269781085,0.8842560156261934,False,Additional descriptive analysis after test exposure
+validation,65 and older,CD__ensemble,90,6.286666666666666,Bias predicted minus observed,-0.2079045970743553,-0.4188160475489882,-0.004912637915733204,False,Additional descriptive analysis after test exposure
+validation,65 and older,CW__ensemble,90,6.286666666666666,MAE,0.6956443041708814,0.5592416655802285,0.8551697555921352,False,Additional descriptive analysis after test exposure
+validation,65 and older,CW__ensemble,90,6.286666666666666,Bias predicted minus observed,-0.22552315573503876,-0.4235042031037065,-0.02703534296434434,False,Additional descriptive analysis after test exposure
+validation,65 and older,CWD__ensemble,90,6.286666666666666,MAE,0.6941133916441394,0.5564777599031276,0.854934452111957,False,Additional descriptive analysis after test exposure
+validation,65 and older,CWD__ensemble,90,6.286666666666666,Bias predicted minus observed,-0.23359708236246743,-0.4328054068625167,-0.03420253736517404,False,Additional descriptive analysis after test exposure
+validation,65 and older,CWDS__ensemble,90,6.286666666666666,MAE,0.6942911445266859,0.5601657445101339,0.8491146183683904,False,Additional descriptive analysis after test exposure
+validation,65 and older,CWDS__ensemble,90,6.286666666666666,Bias predicted minus observed,-0.21581520338531424,-0.41387639684242383,-0.02174418942763259,False,Additional descriptive analysis after test exposure
+validation,65 and older,baseline__training_mean,90,6.286666666666666,MAE,0.7495517522412386,0.5991096848682425,0.9220506429412293,False,Additional descriptive analysis after test exposure
+validation,65 and older,baseline__training_mean,90,6.286666666666666,Bias predicted minus observed,-0.2816951915240425,-0.5006118581907092,-0.07944519152404261,False,Additional descriptive analysis after test exposure
+validation,65 and older,baseline__training_median,90,6.286666666666666,MAE,0.7555555555555555,0.59,0.9422222222222222,False,Additional descriptive analysis after test exposure
+validation,65 and older,baseline__training_median,90,6.286666666666666,Bias predicted minus observed,-0.48666666666666686,-0.7055833333333336,-0.284416666666667,False,Additional descriptive analysis after test exposure
+test,40–54,W__ensemble,99,6.005050505050505,MAE,0.8051955841296653,0.6303368191729479,1.0241432466815739,False,Additional descriptive analysis after test exposure
+test,40–54,W__ensemble,99,6.005050505050505,Bias predicted minus observed,0.042913634756535174,-0.22007331514033748,0.27295087573036153,False,Additional descriptive analysis after test exposure
+test,40–54,WD__ensemble,99,6.005050505050505,MAE,0.7954462619105244,0.6177219203385675,1.0078596867096503,False,Additional descriptive analysis after test exposure
+test,40–54,WD__ensemble,99,6.005050505050505,Bias predicted minus observed,0.036738770196328985,-0.22703983115029594,0.26706523473007265,False,Additional descriptive analysis after test exposure
+test,40–54,WDS__ensemble,99,6.005050505050505,MAE,0.810534905960034,0.6339659074981973,1.0215172074630559,False,Additional descriptive analysis after test exposure
+test,40–54,WDS__ensemble,99,6.005050505050505,Bias predicted minus observed,0.04330745058455054,-0.21608214964618985,0.2795208107228664,False,Additional descriptive analysis after test exposure
+test,40–54,C__ensemble,99,6.005050505050505,MAE,0.7607288582351867,0.5810981736904122,0.9859040385536538,False,Additional descriptive analysis after test exposure
+test,40–54,C__ensemble,99,6.005050505050505,Bias predicted minus observed,-0.06419370723240876,-0.3301490544458035,0.1672284632271689,False,Additional descriptive analysis after test exposure
+test,40–54,CD__ensemble,99,6.005050505050505,MAE,0.7434249766335608,0.5644132039112321,0.9646524164154169,False,Additional descriptive analysis after test exposure
+test,40–54,CD__ensemble,99,6.005050505050505,Bias predicted minus observed,-0.0896652961958692,-0.34838972290578346,0.1406834433361785,False,Additional descriptive analysis after test exposure
+test,40–54,CW__ensemble,99,6.005050505050505,MAE,0.7661598008992441,0.5853166654685308,0.9791150111998048,False,Additional descriptive analysis after test exposure
+test,40–54,CW__ensemble,99,6.005050505050505,Bias predicted minus observed,-0.03360155419895198,-0.29064029789425083,0.1986654832768663,False,Additional descriptive analysis after test exposure
+test,40–54,CWD__ensemble,99,6.005050505050505,MAE,0.7624834374947962,0.5818516062153228,0.9775664097057307,False,Additional descriptive analysis after test exposure
+test,40–54,CWD__ensemble,99,6.005050505050505,Bias predicted minus observed,-0.0396064117359991,-0.29653238232438967,0.19459829019598252,False,Additional descriptive analysis after test exposure
+test,40–54,CWDS__ensemble,99,6.005050505050505,MAE,0.7637824994976693,0.5859192997808718,0.9789145697820056,False,Additional descriptive analysis after test exposure
+test,40–54,CWDS__ensemble,99,6.005050505050505,Bias predicted minus observed,-0.017783725845545204,-0.2741149405416701,0.2117033002242175,False,Additional descriptive analysis after test exposure
+test,40–54,baseline__training_mean,99,6.005050505050505,MAE,0.8014505281008949,0.6227478740131551,1.026258921735694,False,Additional descriptive analysis after test exposure
+test,40–54,baseline__training_mean,99,6.005050505050505,Bias predicted minus observed,-7.902990788085729e-05,-0.2728315551604061,0.2363351115062603,False,Additional descriptive analysis after test exposure
+test,40–54,baseline__training_median,99,6.005050505050505,MAE,0.7343434343434344,0.5383838383838385,0.9707323232323231,False,Additional descriptive analysis after test exposure
+test,40–54,baseline__training_median,99,6.005050505050505,Bias predicted minus observed,-0.2050505050505052,-0.4778030303030305,0.03136363636363592,False,Additional descriptive analysis after test exposure
+test,55–64,W__ensemble,67,6.28955223880597,MAE,0.8127679871723527,0.6290390911100447,1.015291069254605,False,Additional descriptive analysis after test exposure
+test,55–64,W__ensemble,67,6.28955223880597,Bias predicted minus observed,-0.19557961065342302,-0.47443800413724935,0.06411720271627153,False,Additional descriptive analysis after test exposure
+test,55–64,WD__ensemble,67,6.28955223880597,MAE,0.8085152798481627,0.6240776855200321,1.0111129726845791,False,Additional descriptive analysis after test exposure
+test,55–64,WD__ensemble,67,6.28955223880597,Bias predicted minus observed,-0.19649641158896103,-0.475396263685526,0.0638515112735294,False,Additional descriptive analysis after test exposure
+test,55–64,WDS__ensemble,67,6.28955223880597,MAE,0.7708065279131837,0.587404377903253,0.9794542442645894,False,Additional descriptive analysis after test exposure
+test,55–64,WDS__ensemble,67,6.28955223880597,Bias predicted minus observed,-0.20602673922552966,-0.4799783755602019,0.04454572716114909,False,Additional descriptive analysis after test exposure
+test,55–64,C__ensemble,67,6.28955223880597,MAE,0.7800757255666781,0.6054802944819438,0.976096564975276,False,Additional descriptive analysis after test exposure
+test,55–64,C__ensemble,67,6.28955223880597,Bias predicted minus observed,-0.20824989379392425,-0.48009949112265904,0.03847831884294078,False,Additional descriptive analysis after test exposure
+test,55–64,CD__ensemble,67,6.28955223880597,MAE,0.7715478770999126,0.5945506630364918,0.9691808452549717,False,Additional descriptive analysis after test exposure
+test,55–64,CD__ensemble,67,6.28955223880597,Bias predicted minus observed,-0.20143894291425452,-0.4720927308198318,0.04406780717896153,False,Additional descriptive analysis after test exposure
+test,55–64,CW__ensemble,67,6.28955223880597,MAE,0.7950148479691704,0.6181969549025919,0.9877084268766284,False,Additional descriptive analysis after test exposure
+test,55–64,CW__ensemble,67,6.28955223880597,Bias predicted minus observed,-0.16286079447310117,-0.43580633980105205,0.08466322325772666,False,Additional descriptive analysis after test exposure
+test,55–64,CWD__ensemble,67,6.28955223880597,MAE,0.8011295527646393,0.625127384831148,0.9947463051332217,False,Additional descriptive analysis after test exposure
+test,55–64,CWD__ensemble,67,6.28955223880597,Bias predicted minus observed,-0.15668825174119747,-0.43032715888029566,0.09186216229226066,False,Additional descriptive analysis after test exposure
+test,55–64,CWDS__ensemble,67,6.28955223880597,MAE,0.7764892897193604,0.6021117959012338,0.9729418444004295,False,Additional descriptive analysis after test exposure
+test,55–64,CWDS__ensemble,67,6.28955223880597,Bias predicted minus observed,-0.14807463767378193,-0.41280800692262387,0.09381021987437022,False,Additional descriptive analysis after test exposure
+test,55–64,baseline__training_mean,67,6.28955223880597,MAE,0.7884307071001958,0.5964682394871609,1.0050306231677792,False,Additional descriptive analysis after test exposure
+test,55–64,baseline__training_mean,67,6.28955223880597,Bias predicted minus observed,-0.28458076366334595,-0.575625539782749,-0.02629718157379417,False,Additional descriptive analysis after test exposure
+test,55–64,baseline__training_median,67,6.28955223880597,MAE,0.8000000000000002,0.5895522388059704,1.0388432835820895,False,Additional descriptive analysis after test exposure
+test,55–64,baseline__training_median,67,6.28955223880597,Bias predicted minus observed,-0.48955223880597043,-0.7805970149253734,-0.23126865671641858,False,Additional descriptive analysis after test exposure
+test,65 and older,W__ensemble,110,6.51181818181818,MAE,0.8136116515078287,0.6061370889227127,1.066267086369069,False,Additional descriptive analysis after test exposure
+test,65 and older,W__ensemble,110,6.51181818181818,Bias predicted minus observed,-0.494872164024663,-0.7720906132907945,-0.2520084353125343,False,Additional descriptive analysis after test exposure
+test,65 and older,WD__ensemble,110,6.51181818181818,MAE,0.8021328220398164,0.5963785086100888,1.0536699297783092,False,Additional descriptive analysis after test exposure
+test,65 and older,WD__ensemble,110,6.51181818181818,Bias predicted minus observed,-0.4884631836617402,-0.7660152148653028,-0.24855924050555922,False,Additional descriptive analysis after test exposure
+test,65 and older,WDS__ensemble,110,6.51181818181818,MAE,0.7933870741364404,0.5843681476994219,1.045347792555143,False,Additional descriptive analysis after test exposure
+test,65 and older,WDS__ensemble,110,6.51181818181818,Bias predicted minus observed,-0.4614353687079645,-0.7356006411264033,-0.22478705700274465,False,Additional descriptive analysis after test exposure
+test,65 and older,C__ensemble,110,6.51181818181818,MAE,0.8378936548007063,0.6334518142892036,1.1027140724548268,False,Additional descriptive analysis after test exposure
+test,65 and older,C__ensemble,110,6.51181818181818,Bias predicted minus observed,-0.4233884466506683,-0.7099456412477926,-0.17998881185802854,False,Additional descriptive analysis after test exposure
+test,65 and older,CD__ensemble,110,6.51181818181818,MAE,0.8261832396951327,0.6224357900931835,1.08940131556383,False,Additional descriptive analysis after test exposure
+test,65 and older,CD__ensemble,110,6.51181818181818,Bias predicted minus observed,-0.40188171925931454,-0.6900187388137413,-0.15804333256832295,False,Additional descriptive analysis after test exposure
+test,65 and older,CW__ensemble,110,6.51181818181818,MAE,0.8225903235057683,0.6190736934873107,1.080634626662728,False,Additional descriptive analysis after test exposure
+test,65 and older,CW__ensemble,110,6.51181818181818,Bias predicted minus observed,-0.4069222675970691,-0.6878368232564908,-0.16331783855489107,False,Additional descriptive analysis after test exposure
+test,65 and older,CWD__ensemble,110,6.51181818181818,MAE,0.8190590198723615,0.6150998176482084,1.0780962052560175,False,Additional descriptive analysis after test exposure
+test,65 and older,CWD__ensemble,110,6.51181818181818,Bias predicted minus observed,-0.41035474713281406,-0.6924256479087453,-0.17077900942611055,False,Additional descriptive analysis after test exposure
+test,65 and older,CWDS__ensemble,110,6.51181818181818,MAE,0.819522846005169,0.6156560122761439,1.0800347571098887,False,Additional descriptive analysis after test exposure
+test,65 and older,CWDS__ensemble,110,6.51181818181818,Bias predicted minus observed,-0.43705094090291285,-0.7221257934255421,-0.19774138029810642,False,Additional descriptive analysis after test exposure
+test,65 and older,baseline__training_mean,110,6.51181818181818,MAE,0.8244550640883158,0.60679977031933,1.0891904682522042,False,Additional descriptive analysis after test exposure
+test,65 and older,baseline__training_mean,110,6.51181818181818,Bias predicted minus observed,-0.5068467066755576,-0.7932330703119213,-0.26046034303919413,False,Additional descriptive analysis after test exposure
+test,65 and older,baseline__training_median,110,6.51181818181818,MAE,0.8845454545454545,0.6545454545454545,1.1546590909090904,False,Additional descriptive analysis after test exposure
+test,65 and older,baseline__training_median,110,6.51181818181818,Bias predicted minus observed,-0.7118181818181818,-0.9982045454545456,-0.4654318181818185,False,Additional descriptive analysis after test exposure

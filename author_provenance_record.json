@@ -1,0 +1,10 @@
+{
+  "dataset_release_identifier": null,
+  "dataset_release_doi": null,
+  "acquisition_date": null,
+  "acquisition_evidence": null,
+  "training_environment_evidence": null,
+  "public_code_repository": null,
+  "immutable_commit_or_doi": null,
+  "note": "Null fields are unresolved. User-entered fields require cited documentary support. Dataset folder UUID, documentation version, file modification time and paper date are not substitutes."
+}

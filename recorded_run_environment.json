@@ -1,0 +1,15 @@
+{
+  "record": {
+    "python": "3.11.4",
+    "numpy": "1.26.4",
+    "pandas": "3.0.1",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.7.1",
+    "joblib": "1.5.3"
+  },
+  "sha256": "925acfaf300e71bb1d2259169c8f039f6e7912dfb6b97badb558c3db2b85db46",
+  "capture_stage_in_reviewed_code": "new_run, before preparation",
+  "was_environment_file_covered_by_training_lock": false,
+  "training_environment_continuity": "Requires contemporaneous training log or author confirmation; these are not automatically verified fit-time versions."
+}

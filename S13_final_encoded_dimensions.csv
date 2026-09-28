@@ -1,0 +1,9 @@
+Group,Original variables,Final encoded columns,All three learners agree
+W,20,40,True
+WD,29,76,True
+WDS,43,124,True
+C,5,7,True
+CD,14,43,True
+CW,25,47,True
+CWD,34,83,True
+CWDS,48,131,True
