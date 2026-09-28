@@ -1,35 +1,37 @@
-# AI-READI HbA1c digital phenotyping
+# AI READI reviewer completion toolkit
 
-Analysis code accompanying a study of the incremental information
-provided by wearable, dietary, social, and basic clinical predictors
-for estimating recorded laboratory HbA1c.
+Open AI_READI_Reviewer_Completion.ipynb with a fresh Python kernel from this extracted folder. The notebook includes the relocated project path. Read the Markdown instructions before running each numbered section.
 
-## Current contents
+Contents
+- AI_READI_Reviewer_Completion.ipynb: step-by-step local workflow.
+- reviewer_completion.py: extraction, integrity checks and additional analyses.
+- reviewed_source/: the two reviewed CGM-independent source modules. They are accepted only if their hashes match the executed training lock.
 
-- aireadi_no_cgm.py: CGM-independent data preparation.
-- aireadi_no_cgm_models.py: model development and evaluation.
+Outputs are saved under the existing run in reviewer_completion/<timestamp>/. Original models and reports are never overwritten. Participant-level outputs remain in LOCAL_ONLY. The aggregate review archive uses an explicit file allowlist.
 
-## Study design
+What this can recover
+- Exact selected and effective parameters of final saved learners.
+- Exact encoded dimensions, including missingness indicators and learned categories.
+- Agreement between current artifacts and the archived execution lock after relocation.
+- Original recorded environment and current recovery environment as separate records.
+- Education source candidates for local investigation.
+- Descriptive age-group MAE and bias.
+- Three-seed Monte Carlo attribution stability with a fixed original training background.
+- Optional separately fitted no-education WDS and CWDS sensitivity models.
 
-The analysis uses the AI-READI recommended participant splits.
-Revised eligibility does not require continuous glucose monitoring
-(CGM) availability.
+What still needs documentary evidence
+- Exact dataset release and original acquisition date.
+- Continuity from the environment recorded at run creation to actual model fitting.
+- Full education derivation and verified coding; a candidate label match is insufficient.
+- A real public repository and immutable version or DOI. This toolkit does not publish one.
 
-Models were fitted using eligible training participants. Revised
-validation and test evaluations are exploratory because results from
-earlier analyses had already been examined.
+The manuscript cannot be finalized by treating missing records as completed analyses. All revised and additional evaluations remain exploratory after earlier test exposure.
 
-The outcome is recorded visit-day HbA1c. This is cross-sectional
-estimation, not prospective forecasting.
+The module syntax and selected functions are checked on synthetic data in the authoring environment. The notebook has not been run against the participant files or current model bundles on your computer. Do not interpret synthetic checks as study results.
 
-## Data access
+Technical documentation
+- Fitted transformed output names: https://scikit-learn.org/stable/modules/generated/sklearn.compose.ColumnTransformer.html
+- Spearman rank correlation: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.spearmanr.html
+- AI-READI questionnaire documentation: https://docs.aireadi.org/docs/3/dataset/clinical-data/questionnaires
 
-Participant-level data are not included in this repository.
-Researchers must obtain AI-READI data through its official access
-process and comply with the applicable data-use conditions.
-
-## Reproducibility status
-
-This repository is being prepared for the manuscript release.
-Execution instructions, configuration information, additional analysis
-scripts, and reproducibility records are being assembled.
+The AI-READI documentation version linked above is not an assertion about the version downloaded for this study.
